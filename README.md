@@ -27,7 +27,8 @@ Download the files to your local drive, and run "Index.HTML" on Chrome. Once the
 
 Please download all files to your pc, and keep them together in the folder "Prework-Study-Guide" as they are crucial to the site working properly.
 
-![alt text](assets/images/Capture.png)
+![Capture](./assets/images/Capture.png)
+
 
 ## Credits
 
